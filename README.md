@@ -10,6 +10,8 @@ Social MApper, atualizado com uso de IA, novos modulos e interface reformulada
 
 ---
 
-![Erro](impressão/print.jpeg)
+![Erro](Impressão/Print.jpeg)
+
+
 
 
