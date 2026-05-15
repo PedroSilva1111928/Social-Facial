@@ -1,4 +1,4 @@
-# SOCIAL FECE 
+# Mapa social
 
 Link projeto original: https://github.com/Greenwolf/social_mapper
 
