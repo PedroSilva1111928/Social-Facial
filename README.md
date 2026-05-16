@@ -8,9 +8,8 @@ Social MApper, atualizado com uso de IA, novos modulos e interface reformulada
 
 ![Erro](ImagemFacial/reconhecimento-facial.jpg)
 
----
 
-![Erro](Impressão/Print.jpeg)
+
 
 
 
